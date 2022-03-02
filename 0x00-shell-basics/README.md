@@ -1,2 +1,2 @@
-PWD purpose is to print the working directory
+It's purpose is to print the working directory
  
