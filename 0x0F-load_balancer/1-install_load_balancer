@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Install haproxy and configurate both servers
+apt-get -y update
+apt-get -y install haproxy
